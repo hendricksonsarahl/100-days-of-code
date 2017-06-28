@@ -31,3 +31,12 @@ Today's Progress: Finished up Monday's homework on databases, attended 3 hours o
 Thoughts: Still tired, must focus on catching up on sleep
 
 Link to work: <a href="https://www.khanacademy.org/computing/computer-programming/sql?ref=resume_learning#relational-queries-in-sql">KhanAcademy</a>
+
+#Day 4: June 27. Tuesday
+
+Today's Progress: Played around with SQL database on MAMP, learned more about databases via w3schools
+
+Thoughts: Realizing making a habit of these logs is harder than I thought! Adding a google calendar event for 5:30pm every day to remind me to enter a log.
+
+Link to work: <a href="https://www.w3schools.com/sql">w3schools</a>
+
