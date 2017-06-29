@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log - VARIATION from the rules: I'm working through a highly time-intensive code school, LaunchCode, and much of my hours of code work per day will include a mix of reading/watching videos, coding along with tutorials, and coding on my own. I will include this work in my daily count only while I am in school. 
 
-#Day 0: June 23. Friday
+Day 0: June 23. Friday
 
 Today's Progress: Caught up on Flask app refactoring using html templating
 
@@ -37,6 +37,14 @@ Link to work: <a href="https://www.khanacademy.org/computing/computer-programmin
 Today's Progress: Played around with SQL database on MAMP, learned more about databases via w3schools
 
 Thoughts: Realizing making a habit of these logs is harder than I thought! Adding a google calendar event for 5:30pm every day to remind me to enter a log.
+
+Link to work: <a href="https://www.w3schools.com/sql">w3schools</a>
+
+#Day 5: June 28. Wednesday
+
+Today's Progress: Worked on more advanced SQL clauses and uses in preparation for tomorrow's class!
+
+Thoughts: Feeling pretty solid on all this SQL stuff, which I'm super excited about because I know I'll be using a variation of SQL when I'm working as a dev!
 
 Link to work: <a href="https://www.w3schools.com/sql">w3schools</a>
 
