@@ -48,3 +48,11 @@ Thoughts: Feeling pretty solid on all this SQL stuff, which I'm super excited ab
 
 Link to work: <a href="https://www.w3schools.com/sql">w3schools</a>
 
+#Day 5: June 29. Thursday
+
+Today's Progress: Reviewed some more SQL on w3schools and 3 hours of class!
+
+Thoughts: Super solid on SQL, want to use it in a larger setting actually using a real database 
+
+Link to work: <a href="https://www.w3schools.com/sql">w3schools</a>
+
