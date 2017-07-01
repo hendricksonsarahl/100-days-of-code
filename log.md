@@ -48,11 +48,19 @@ Thoughts: Feeling pretty solid on all this SQL stuff, which I'm super excited ab
 
 Link to work: <a href="https://www.w3schools.com/sql">w3schools</a>
 
-#Day 5: June 29. Thursday
+#Day 6: June 29. Thursday
 
 Today's Progress: Reviewed some more SQL on w3schools and 3 hours of class!
 
 Thoughts: Super solid on SQL, want to use it in a larger setting actually using a real database 
 
 Link to work: <a href="https://www.w3schools.com/sql">w3schools</a>
+
+#Day 7: June 30. Friday
+
+Today's Progress: Started my next big LC101 assignment, user-signup!
+
+Thoughts: Last day of June! Feels good to switch gears back to html/css/flask 
+
+Link to work: <a href="https://github.com/hendricksonsarahl/user-signup">Github</a>
 
