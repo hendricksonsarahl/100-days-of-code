@@ -64,3 +64,18 @@ Thoughts: Last day of June! Feels good to switch gears back to html/css/flask
 
 Link to work: <a href="https://github.com/hendricksonsarahl/user-signup">Github</a>
 
+#Day 8: July 2nd. Sunday
+
+Today's Progress: After a day off yesterday to move, I spent some time refreshing my CSS skills!
+
+Thoughts: Relieved to be done moving and more organized 
+
+Link to work: <a href="https://github.com/hendricksonsarahl/user-signup">Github</a>
+
+#Day 7: July 3. Monday
+
+Today's Progress: Completed the user-signup assignment!!
+
+Thoughts: Excited to have a free evening since there's no class tonight - going to fill it with FreeCodeCamp
+
+Link to work: <a href="https://github.com/hendricksonsarahl/user-signup">Github</a>
