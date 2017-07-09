@@ -72,10 +72,50 @@ Thoughts: Relieved to be done moving and more organized
 
 Link to work: <a href="https://github.com/hendricksonsarahl/user-signup">Github</a>
 
-#Day 7: July 3. Monday
+#Day 9: July 3. Monday
 
 Today's Progress: Completed the user-signup assignment!!
 
 Thoughts: Excited to have a free evening since there's no class tonight - going to fill it with FreeCodeCamp
 
 Link to work: <a href="https://github.com/hendricksonsarahl/user-signup">Github</a>
+
+#Day 10: July 4. Tuesday
+
+Today's Progress: 4th of July, took a day off!
+
+Thoughts: Feeling good about my User-Signup assignment being completed, ready to switch gears tomorrow to SQLAlchemy
+
+Link to work: <a href="https://github.com/hendricksonsarahl/user-signup">Github</a>
+
+#Day 11: July 5. Wednesday
+
+Today's Progress: Improved User-Signup via refactoring and addition of Bootstrap, also learned what Bootstrap is
+
+Thoughts: Bootstrap is blowing my mind
+
+Link to work: <a href="https://github.com/hendricksonsarahl/user-signup">Github</a>
+
+#Day 12: July 6. Thursday
+
+Today's Progress: Initialized Get-It-Done db task list project, attended 3 hours of LC101 class 
+
+Thoughts: Definitely should have left more time to "get it done"...
+
+Link to work: <a href="https://github.com/hendricksonsarahl/get-it-done>Github</a>
+
+#Day 13: July 7. Friday
+
+Today's Progress: Read up on SQL Databases and worked on organizing notes
+
+Thoughts: Feeling a little overwhelmed with the phpMyAdmin database stuff 
+
+Link to work: <a href="https://github.com/hendricksonsarahl/get-it-done">Github</a>
+
+#Day 14: July 8. Saturday
+
+Today's Progress: Continued working on the Get-It-Done app
+
+Thoughts: Getting some positive momentum on the database functionality! My list is interacting with the database without any issues and I'm pumped
+
+Link to work: <a href="https://github.com/hendricksonsarahl/get-it-done">Github</a>
