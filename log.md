@@ -102,7 +102,7 @@ Today's Progress: Initialized Get-It-Done db task list project, attended 3 hours
 
 Thoughts: Definitely should have left more time to "get it done"...
 
-Link to work: <a href="https://github.com/hendricksonsarahl/get-it-done>Github</a>
+Link to work: <a href="https://github.com/hendricksonsarahl/get-it-done">Github</a>
 
 #Day 13: July 7. Friday
 
