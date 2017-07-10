@@ -119,3 +119,11 @@ Today's Progress: Continued working on the Get-It-Done app
 Thoughts: Getting some positive momentum on the database functionality! My list is interacting with the database without any issues and I'm pumped
 
 Link to work: <a href="https://github.com/hendricksonsarahl/get-it-done">Github</a>
+
+#Day 15: July 9. Sunday
+
+Today's Progress: More progress on the Get it Done task app. 
+
+Thoughts: Still on a roll with feeling like I'm starting to understand MySQL and how it interacts with Python/Flask!
+
+Link to work: <a href="https://github.com/hendricksonsarahl/get-it-done">Github</a>
