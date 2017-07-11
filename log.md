@@ -127,3 +127,12 @@ Today's Progress: More progress on the Get it Done task app.
 Thoughts: Still on a roll with feeling like I'm starting to understand MySQL and how it interacts with Python/Flask!
 
 Link to work: <a href="https://github.com/hendricksonsarahl/get-it-done">Github</a>
+
+#Day 16: July 10. Monday
+
+Today's Progress: The get-it-done app is DONE! 
+
+Thoughts: Pretty excited about being on a roll with this and using that momentum to knock out the next project, build-a-blog
+
+Link to work: <a href="https://github.com/hendricksonsarahl/get-it-done">It is done!</a>
+
